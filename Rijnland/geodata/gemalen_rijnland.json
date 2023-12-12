@@ -1,0 +1,1631 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "20230816_GemalenvoorPOwerBI_V",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5036181321, 52.1094927338 ]
+			},
+			"properties" : {
+				"CODE" : "B67023",
+				"NAAM" : "Rioolgemaal Zuidhof",
+				"TYPE" : "RG",
+				"XCOORDINAA" : 0,
+				"YCOORDINAA" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5223355543, 52.137235376 ]
+			},
+			"properties" : {
+				"CODE" : "A25028A",
+				"NAAM" : "Rioolgemaal Rijndijk",
+				"TYPE" : "RG",
+				"XCOORDINAA" : 0,
+				"YCOORDINAA" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.4943262997, 52.1162894004 ]
+			},
+			"properties" : {
+				"NAAM" : "Rioolgemaal Pinksterbloemlaan",
+				"TYPE" : "RG",
+				"XCOORDINAA" : 0,
+				"YCOORDINAA" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6512985116, 52.4657521423 ]
+			},
+			"properties" : {
+				"CODE" : "VZ-080-00023",
+				"NAAM" : "AWTG Velsen Noord",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7215378216, 52.004246059 ]
+			},
+			"properties" : {
+				"CODE" : "GD-080-00022",
+				"NAAM" : "AWTG Goudseweg",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6396415037, 52.2180475761 ]
+			},
+			"properties" : {
+				"CODE" : "OW-080-00021",
+				"NAAM" : "AWTG Oude Wetering",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7420935447, 52.2740910954 ]
+			},
+			"properties" : {
+				"CODE" : "SC-080-00022",
+				"NAAM" : "AWTG Schiphol Oostlob",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7100102141, 52.1965334079 ]
+			},
+			"properties" : {
+				"CODE" : "LA-080-00022",
+				"NAAM" : "AWTG Langeraar",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.4614736182, 52.1838606154 ]
+			},
+			"properties" : {
+				"CODE" : "OE-080-00021",
+				"NAAM" : "AWTG Oegstgeest",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6725619196, 52.1316070224 ]
+			},
+			"properties" : {
+				"CODE" : "AN-080-00023",
+				"NAAM" : "AWTG Alphen Sportlaan",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7109992741, 52.0025812819 ]
+			},
+			"properties" : {
+				"CODE" : "GD-080-00023",
+				"NAAM" : "AWTG Gouderaksedijk",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7865109191, 52.3341920924 ]
+			},
+			"properties" : {
+				"CODE" : "BA-080-00021",
+				"NAAM" : "AWTG Badhoevedorp",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8254015105, 52.1693675484 ]
+			},
+			"properties" : {
+				"CODE" : "NN-080-00021",
+				"NAAM" : "AWTG Noorden",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.3134684489, 52.0944272913 ]
+			},
+			"properties" : {
+				"CODE" : "BE-080-00021",
+				"NAAM" : "AWTG Groenhovenstraat",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.400527622, 52.0727139737 ]
+			},
+			"properties" : {
+				"CODE" : "LV-080-00021",
+				"NAAM" : "AWTG Leidschenveen",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.4965066675, 52.1199086536 ]
+			},
+			"properties" : {
+				"CODE" : "ZD-080-00021",
+				"NAAM" : "AWTG de Loethe Zoeterwoude",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5768978552, 52.1717365082 ]
+			},
+			"properties" : {
+				"CODE" : "HM-080-00021",
+				"NAAM" : "AWTG Hoogmade",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7272981544, 52.3588676875 ]
+			},
+			"properties" : {
+				"CODE" : "BS-080-00021",
+				"NAAM" : "AWTG Boesingheliede",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6526591081, 52.2246206773 ]
+			},
+			"properties" : {
+				"CODE" : "WE-080-00021",
+				"NAAM" : "AWTG Weteringbrug",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6496064689, 52.2910191565 ]
+			},
+			"properties" : {
+				"CODE" : "NV-080-00023",
+				"NAAM" : "AWTG Zuidrand",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5353706525, 52.1571274792 ]
+			},
+			"properties" : {
+				"CODE" : "LP-080-00021",
+				"NAAM" : "AWTG Engelendaal",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7410477219, 52.0845810194 ]
+			},
+			"properties" : {
+				"CODE" : "BG-080-00021",
+				"NAAM" : "AWTG Bodegraven Molenkade",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6057515705, 52.3642670684 ]
+			},
+			"properties" : {
+				"CODE" : "AE-080-00021",
+				"NAAM" : "AWTG Aerdenhout",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6348303359, 52.2066363489 ]
+			},
+			"properties" : {
+				"CODE" : "RV-080-00021",
+				"NAAM" : "AWTG Roelofarendsveen",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5783037013, 52.1942774801 ]
+			},
+			"properties" : {
+				"CODE" : "RW-080-00021",
+				"NAAM" : "AWTG Rijpwetering",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5242854163, 52.0418726697 ]
+			},
+			"properties" : {
+				"CODE" : "AT-080-00021",
+				"NAAM" : "AWTG Aventurijnweg",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6733504205, 52.1404338463 ]
+			},
+			"properties" : {
+				"CODE" : "AN-080-00021",
+				"NAAM" : "AWTG Alphen Kennedylaan",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.601672126, 52.1359867113 ]
+			},
+			"properties" : {
+				"CODE" : "KK-080-00021",
+				"NAAM" : "AWTG Koudekerk a.d. Rijn",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5035964966, 52.0471024368 ]
+			},
+			"properties" : {
+				"CODE" : "RO-080-00021",
+				"NAAM" : "AWTG Rokkeveenseweg",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.4748828517, 52.2237441441 ]
+			},
+			"properties" : {
+				"CODE" : "VH-080-00021",
+				"NAAM" : "AWTG Voorhout",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6533398421, 52.333702326 ]
+			},
+			"properties" : {
+				"CODE" : "CR-080-00021",
+				"NAAM" : "AWTG Cruquius",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.683323045, 52.3477736815 ]
+			},
+			"properties" : {
+				"CODE" : "VY-080-00021",
+				"NAAM" : "AWTG Vijfhuizen",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7022099965, 52.3113445349 ]
+			},
+			"properties" : {
+				"CODE" : "HO-080-00021",
+				"NAAM" : "AWTG Hoofddorp Noord",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6112587022, 52.3171227179 ]
+			},
+			"properties" : {
+				"CODE" : "BB-080-00021",
+				"NAAM" : "AWTG Bennebroek",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7716794892, 52.1916020114 ]
+			},
+			"properties" : {
+				"CODE" : "ZE-080-00021",
+				"NAAM" : "AWTG Zevenhoven",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6309798826, 52.169080057 ]
+			},
+			"properties" : {
+				"CODE" : "WB-080-00022",
+				"NAAM" : "AWTG Woubrugge",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7251654133, 52.1378851043 ]
+			},
+			"properties" : {
+				"CODE" : "AV-080-00021",
+				"NAAM" : "AWTG Aarlanderveen",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6687849288, 52.0663854346 ]
+			},
+			"properties" : {
+				"CODE" : "BO-080-00021",
+				"NAAM" : "AWTG Boskoop Oost",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6531454742, 52.0643436586 ]
+			},
+			"properties" : {
+				"CODE" : "BO-080-00022",
+				"NAAM" : "AWTG Boskoop West",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.4669358462, 52.050602006 ]
+			},
+			"properties" : {
+				"CODE" : "ZO-080-00021",
+				"NAAM" : "AWTG Oostergo/Zoetermeer (noodgemaal)",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.4677374561, 52.0504242254 ]
+			},
+			"properties" : {
+				"CODE" : "ZO-080-00022",
+				"NAAM" : "AWTG Meerzicht Zoetermeer",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.3816115228, 52.0863339963 ]
+			},
+			"properties" : {
+				"CODE" : "LV-080-00022",
+				"NAAM" : "AWTG Leidschendam",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.73262597, 52.0490122072 ]
+			},
+			"properties" : {
+				"CODE" : "RB-080-00022",
+				"NAAM" : "AWTG Reeuwijk Brug Oost",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5119495279, 52.2560140367 ]
+			},
+			"properties" : {
+				"CODE" : "NH-080-00021",
+				"NAAM" : "AWTG Noordwijkerhout",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5466493602, 52.3843208089 ]
+			},
+			"properties" : {
+				"CODE" : "ZA-080-00022",
+				"NAAM" : "AWTG Buffervijver Zandvoort",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6661305208, 52.1896702368 ]
+			},
+			"properties" : {
+				"CODE" : "RS-080-00021",
+				"NAAM" : "AWTG Rijnsaterwoude",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5820027698, 52.2474283079 ]
+			},
+			"properties" : {
+				"CODE" : "LB-080-00022",
+				"NAAM" : "rioolpomp Combigemaal Turfspoor",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7341260217, 52.083056672 ]
+			},
+			"properties" : {
+				"CODE" : "BG-080-00023",
+				"NAAM" : "rioolpomp Vlietkade Bodegraven",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7069927617, 52.0042430949 ]
+			},
+			"properties" : {
+				"CODE" : "GD-080-00021",
+				"NAAM" : "AWTG Bosweg",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5197683343, 52.2175318554 ]
+			},
+			"properties" : {
+				"CODE" : "SA-080-00022",
+				"NAAM" : "AWTG Sassenheim",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6120892033, 52.2759869973 ]
+			},
+			"properties" : {
+				"CODE" : "NV-080-00022",
+				"NAAM" : "AWTG Getsewoud",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5931233409, 52.1254829469 ]
+			},
+			"properties" : {
+				"CODE" : "HR-080-00021",
+				"NAAM" : "AWTG Hazerswoude Rijndijk",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6519133339, 52.1290393898 ]
+			},
+			"properties" : {
+				"CODE" : "AL-080-00021",
+				"NAAM" : "AWTG Alphen West",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5771142176, 52.2583851201 ]
+			},
+			"properties" : {
+				"CODE" : "LB-080-00021",
+				"NAAM" : "AWTG Lisserbroek",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7262676384, 52.184384327 ]
+			},
+			"properties" : {
+				"CODE" : "PV-080-00021",
+				"NAAM" : "AWTG Papenveer",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.4017860034, 52.1424896081 ]
+			},
+			"properties" : {
+				"CODE" : "WA-080-00021",
+				"NAAM" : "AWTG van Zuylen van Nijevelt",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.760404611, 52.1883189054 ]
+			},
+			"properties" : {
+				"CODE" : "NI-080-00021",
+				"NAAM" : "AWTG Nieuwveen (effluent)",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7510222162, 52.0892830364 ]
+			},
+			"properties" : {
+				"CODE" : "BG-080-00022",
+				"NAAM" : "AWTG Bodegraven Willem de Zwijgerstraat",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5987059576, 52.2840055745 ]
+			},
+			"properties" : {
+				"CODE" : "BD-080-00021",
+				"NAAM" : "AWTG Beinsdorp",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8609860943, 52.336902884 ]
+			},
+			"properties" : {
+				"CODE" : "AD-081-00021",
+				"NAAM" : "Eindrioolgemaal Amsterdam West",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7074113269, 52.1642328836 ]
+			},
+			"properties" : {
+				"CODE" : "AW-080-00021",
+				"NAAM" : "AWTG Aardam-West",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5613322169, 52.2120235593 ]
+			},
+			"properties" : {
+				"CODE" : "KG-080-00021",
+				"NAAM" : "AWTG Kaagdorp",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7128553959, 52.2641429905 ]
+			},
+			"properties" : {
+				"CODE" : "RH-080-00021",
+				"NAAM" : "AWTG Rijsenhout Lijzijde",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6144291345, 52.1979374799 ]
+			},
+			"properties" : {
+				"CODE" : "RV-080-00022",
+				"NAAM" : "AWTG Veenderveld",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6500009822, 52.0497621076 ]
+			},
+			"properties" : {
+				"CODE" : "WW-080-00024",
+				"NAAM" : "AWTG Waddinxveen West",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7832927239, 52.159690202 ]
+			},
+			"properties" : {
+				"CODE" : "NK-080-00021",
+				"NAAM" : "AWTG Nieuwkoop",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7907259344, 52.2779408427 ]
+			},
+			"properties" : {
+				"CODE" : "AA-080-00022",
+				"NAAM" : "AWTG Aalsmeer Machineweg",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6805901105, 52.4099100899 ]
+			},
+			"properties" : {
+				"CODE" : "SP-080-00022",
+				"NAAM" : "AWTG Spaarne Buiten",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.495459386, 52.1943643792 ]
+			},
+			"properties" : {
+				"CODE" : "WM-080-00021",
+				"NAAM" : "AWTG Warmond",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7604975523, 52.4029482471 ]
+			},
+			"properties" : {
+				"CODE" : "AD-080-00024",
+				"NAAM" : "Eindgemaal Westpoort 2",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8349602765, 52.3637617683 ]
+			},
+			"properties" : {
+				"CODE" : "AD-080-00022",
+				"NAAM" : "Eindgemaal Westpoort",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8006947985, 52.3589731392 ]
+			},
+			"properties" : {
+				"CODE" : "AD-080-00023",
+				"NAAM" : "Eindgemaal Westpoort 2",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5464572387, 52.3751741553 ]
+			},
+			"properties" : {
+				"CODE" : "ZA-080-00021",
+				"NAAM" : "AWTG Zandvoort",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6931161249, 52.4125230134 ]
+			},
+			"properties" : {
+				"CODE" : "SP-080-00021",
+				"NAAM" : "AWTG Spaarndam Oost",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6469455149, 52.4593336554 ]
+			},
+			"properties" : {
+				"CODE" : "VZ-080-00021",
+				"NAAM" : "AWTG Velsen Zuid",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6007875269, 52.1011084085 ]
+			},
+			"properties" : {
+				"CODE" : "HD-080-00021",
+				"NAAM" : "AWTG Hazerswoude-Dorp",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6427026586, 52.3857912655 ]
+			},
+			"properties" : {
+				"CODE" : "HL-080-00023",
+				"NAAM" : "AWTG Parklaan (DWA)",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7589210571, 52.3826704942 ]
+			},
+			"properties" : {
+				"CODE" : "HA-080-00021",
+				"NAAM" : "AWTG Halfweg",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.472666853, 52.0924189635 ]
+			},
+			"properties" : {
+				"CODE" : "ST-080-00021",
+				"NAAM" : "AWTG Stompwijk",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7614094866, 52.3491558932 ]
+			},
+			"properties" : {
+				"CODE" : "BA-080-00022",
+				"NAAM" : "AWTG Lijnden",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.61295052, 52.2016976024 ]
+			},
+			"properties" : {
+				"CODE" : "NW-080-00021",
+				"NAAM" : "AWTG Nieuwe Wetering Achterweg",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6374198543, 52.1276359239 ]
+			},
+			"properties" : {
+				"CODE" : "AZ-080-00021",
+				"NAAM" : "AWTG Alphen Kerk en Zanen",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7222403229, 52.1079305431 ]
+			},
+			"properties" : {
+				"CODE" : "ZW-080-00021",
+				"NAAM" : "AWTG Zwammerdam",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5689386958, 52.2950071275 ]
+			},
+			"properties" : {
+				"CODE" : "HI-080-00022",
+				"NAAM" : "AWTG Zanderijpolder",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6818842242, 52.0562751068 ]
+			},
+			"properties" : {
+				"CODE" : "RD-080-00021",
+				"NAAM" : "AWTG Reeuwijk Dorp",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5868740936, 52.2869437945 ]
+			},
+			"properties" : {
+				"CODE" : "HI-080-00023",
+				"NAAM" : "AWTG Elsbroek",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5889338684, 52.2959830809 ]
+			},
+			"properties" : {
+				"CODE" : "HI-080-00021",
+				"NAAM" : "AWTG Vosselaan",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5507493954, 52.2990074904 ]
+			},
+			"properties" : {
+				"CODE" : "DZ-080-00021",
+				"NAAM" : "AWTG De Zilk",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.661495401, 52.4335563156 ]
+			},
+			"properties" : {
+				"CODE" : "VZ-080-00022",
+				"NAAM" : "AWTG Velserbroek",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6326742981, 52.2717811751 ]
+			},
+			"properties" : {
+				"CODE" : "NV-080-00021",
+				"NAAM" : "AWTG Nieuw-Vennep",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6688966004, 52.3783708105 ]
+			},
+			"properties" : {
+				"CODE" : "HL-080-00022",
+				"NAAM" : "AWTG Zuiderpolder",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6606122856, 52.2204906571 ]
+			},
+			"properties" : {
+				"CODE" : "LM-080-00021",
+				"NAAM" : "AWTG Leimuiden",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7573609389, 52.3716408275 ]
+			},
+			"properties" : {
+				"CODE" : "ZB-080-00021",
+				"NAAM" : "AWTG Zwanenburg",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.4356112613, 52.1962642925 ]
+			},
+			"properties" : {
+				"CODE" : "RY-080-00021",
+				"NAAM" : "AWTG Rijnsburg",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5715586356, 52.3162238936 ]
+			},
+			"properties" : {
+				"CODE" : "VO-080-00021",
+				"NAAM" : "AWTG Vogelenzang",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.3882295329, 52.1305813336 ]
+			},
+			"properties" : {
+				"CODE" : "WA-080-00022",
+				"NAAM" : "AWTG Backershagen",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6731984161, 52.3067446555 ]
+			},
+			"properties" : {
+				"CODE" : "HO-080-00022",
+				"NAAM" : "AWTG Hoofddorp Zuid",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.675153406, 51.9843955429 ]
+			},
+			"properties" : {
+				"CODE" : "GO-080-00021",
+				"NAAM" : "AWTG Gouderak",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7160036019, 51.9822182192 ]
+			},
+			"properties" : {
+				"CODE" : "HB-080-00021",
+				"NAAM" : "AWTG Het Beijersche",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7762592109, 52.2648731746 ]
+			},
+			"properties" : {
+				"CODE" : "AA-080-00021",
+				"NAAM" : "AWTG Aalsmeer Blaauwstraat",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6215192999, 52.3084824742 ]
+			},
+			"properties" : {
+				"CODE" : "ZH-080-00021",
+				"NAAM" : "AWTG Zwaanshoek",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7127394957, 52.1628776794 ]
+			},
+			"properties" : {
+				"CODE" : "AO-080-00021",
+				"NAAM" : "AWTG Aardam Oost",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.3674902908, 52.1179477722 ]
+			},
+			"properties" : {
+				"CODE" : "WA-080-00023",
+				"NAAM" : "AWTG Stoeplaan",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7510926119, 52.2809983153 ]
+			},
+			"properties" : {
+				"CODE" : "SC-080-00021",
+				"NAAM" : "AWTG Schiphol-Rijk",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7191308394, 52.0461802155 ]
+			},
+			"properties" : {
+				"CODE" : "RB-080-00021",
+				"NAAM" : "AWTG Reeuwijk Brug West",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5375555855, 52.0738794219 ]
+			},
+			"properties" : {
+				"CODE" : "BH-080-00021",
+				"NAAM" : "AWTG Benthuizen",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7245576195, 52.2720228878 ]
+			},
+			"properties" : {
+				"CODE" : "RH-080-00022",
+				"NAAM" : "AWTG Rijsenhout",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8676617801, 52.1535415363 ]
+			},
+			"properties" : {
+				"CODE" : "WV-080-00021",
+				"NAAM" : "AWTG Woerdense Verlaat",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6837247621, 52.3893480376 ]
+			},
+			"properties" : {
+				"CODE" : "SP-080-00023",
+				"NAAM" : "AWTG Franciscanenstraat",
+				"TYPE" : "AWTG"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.4401545491, 52.2025127875 ]
+			},
+			"properties" : {
+				"CODE" : "KW-027-00001",
+				"NAAM" : "AWZI Katwijk",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6749716802, 52.1375207926 ]
+			},
+			"properties" : {
+				"CODE" : "AN-027-00001",
+				"NAAM" : "AWZI Alphen-Noord",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.4470708636, 52.2210857249 ]
+			},
+			"properties" : {
+				"CODE" : "NO-027-00001",
+				"NAAM" : "AWZI Noordwijk",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.62675435, 52.1278571272 ]
+			},
+			"properties" : {
+				"CODE" : "AZ-027-00001",
+				"NAAM" : "AWZI Alphen Kerk en Zanen",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7346040528, 52.0821782611 ]
+			},
+			"properties" : {
+				"CODE" : "BG-027-00001",
+				"NAAM" : "AWZI Bodegraven",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.3187140533, 52.0168711919 ]
+			},
+			"properties" : {
+				"CODE" : "HA-027-00001",
+				"NAAM" : "AWZI Harnaschpolder (Delfland)",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6109918567, 52.2132479952 ]
+			},
+			"properties" : {
+				"CODE" : "NW-027-00001",
+				"NAAM" : "AWZI Nieuwe Wetering",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7399986148, 52.3616855184 ]
+			},
+			"properties" : {
+				"CODE" : "ZB-027-00001",
+				"NAAM" : "AWZI Zwanenburg",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.5641708929, 52.245879612 ]
+			},
+			"properties" : {
+				"CODE" : "LI-027-00001",
+				"NAAM" : "AWZI Lisse",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6661407943, 52.0569696366 ]
+			},
+			"properties" : {
+				"CODE" : "WR-027-00001",
+				"NAAM" : "AWZI Waddinxveen-Randenburg",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7874983445, 52.2915056576 ]
+			},
+			"properties" : {
+				"CODE" : "SC-027-00001",
+				"NAAM" : "AWZI Schiphol(derden)",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.783915128, 52.002524689 ]
+			},
+			"properties" : {
+				"CODE" : "HA-027-00002",
+				"NAAM" : "AWZI Haastrecht (Schieland)",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6599753643, 52.4594152279 ]
+			},
+			"properties" : {
+				"CODE" : "VZ-027-00001",
+				"NAAM" : "AWZI Velsen",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7589911096, 52.1879799012 ]
+			},
+			"properties" : {
+				"CODE" : "NI-027-00001",
+				"NAAM" : "AWZI Nieuwveen",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6287897628, 51.9724053726 ]
+			},
+			"properties" : {
+				"CODE" : "KO-027-00001",
+				"NAAM" : "AWZI Kortenoord (Schieland)",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.4740279484, 52.1364883076 ]
+			},
+			"properties" : {
+				"CODE" : "LZ-027-00001",
+				"NAAM" : "AWZI Leiden Zuid-West",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8010545151, 52.4134840794 ]
+			},
+			"properties" : {
+				"CODE" : "WP-027-00001",
+				"NAAM" : "AWZI Westpoort(Waternet)",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6688970714, 52.3690382499 ]
+			},
+			"properties" : {
+				"CODE" : "HS-027-00001",
+				"NAAM" : "AWZI Haarlem-Schalkwijk",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.4938976325, 52.1745756504 ]
+			},
+			"properties" : {
+				"CODE" : "LN-027-00001",
+				"NAAM" : "AWZI Leiden Noord",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.637941497, 52.3439533653 ]
+			},
+			"properties" : {
+				"CODE" : "HE-027-00001",
+				"NAAM" : "AWZI Heemstede",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7878265413, 52.3993447427 ]
+			},
+			"properties" : {
+				"CODE" : "AW-027-00001",
+				"NAAM" : "AWZI-Amsterdam-West (Waternet)",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.2667225326, 52.088439012 ]
+			},
+			"properties" : {
+				"CODE" : "DH-027-00001",
+				"NAAM" : "AWZI Houtrust (Delfland)",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6538156576, 52.2203042803 ]
+			},
+			"properties" : {
+				"CODE" : "LM-027-00001",
+				"NAAM" : "AWZI Leimuiden",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6063337365, 52.3038139057 ]
+			},
+			"properties" : {
+				"CODE" : "ZH-027-00001",
+				"NAAM" : "AWZI Zwaanshoek",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.6679126264, 52.3975589453 ]
+			},
+			"properties" : {
+				"CODE" : "HW-027-00001",
+				"NAAM" : "AWZI Haarlem-Waarderpolder",
+				"TYPE" : "AWZI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7128755917, 52.0024688531 ]
+			},
+			"properties" : {
+				"CODE" : "GD-027-00001",
+				"NAAM" : "AWZI Gouda",
+				"TYPE" : "AWZI"
+			}
+		}
+	]
+}
