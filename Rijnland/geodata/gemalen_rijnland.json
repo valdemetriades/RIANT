@@ -10,7 +10,7 @@
 			},
 			"properties" : {
 				"CODE" : "B67023",
-				"NAAM" : "Rioolgemaal Zuidhof",
+				"NAAM" : "RG Zuidhof",
 				"TYPE" : "RG",
 				"XCOORDINAA" : 0,
 				"YCOORDINAA" : 0
@@ -24,7 +24,7 @@
 			},
 			"properties" : {
 				"CODE" : "A25028A",
-				"NAAM" : "Rioolgemaal Rijndijk",
+				"NAAM" : "RG Rijndijk",
 				"TYPE" : "RG",
 				"XCOORDINAA" : 0,
 				"YCOORDINAA" : 0
@@ -37,7 +37,7 @@
 				"coordinates" : [ 4.4943262997, 52.1162894004 ]
 			},
 			"properties" : {
-				"NAAM" : "Rioolgemaal Pinksterbloemlaan",
+				"NAAM" : "RG Pinksterbloemlaan",
 				"TYPE" : "RG",
 				"XCOORDINAA" : 0,
 				"YCOORDINAA" : 0
@@ -723,7 +723,7 @@
 			},
 			"properties" : {
 				"CODE" : "AD-081-00021",
-				"NAAM" : "Eindrioolgemaal Amsterdam West",
+				"NAAM" : "EindRG Amsterdam West",
 				"TYPE" : "AWTG"
 			}
 		},
