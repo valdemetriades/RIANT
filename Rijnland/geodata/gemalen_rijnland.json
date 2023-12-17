@@ -11,9 +11,7 @@
 			"properties" : {
 				"CODE" : "B67023",
 				"NAAM" : "RG Zuidhof",
-				"TYPE" : "RG",
-				"XCOORDINAA" : 0,
-				"YCOORDINAA" : 0
+				"TYPE" : "RG"
 			}
 		},
 		{
@@ -25,9 +23,8 @@
 			"properties" : {
 				"CODE" : "A25028A",
 				"NAAM" : "RG Rijndijk",
-				"TYPE" : "RG",
-				"XCOORDINAA" : 0,
-				"YCOORDINAA" : 0
+				"TYPE" : "RG"
+
 			}
 		},
 		{
@@ -38,9 +35,7 @@
 			},
 			"properties" : {
 				"NAAM" : "RG Pinksterbloemlaan",
-				"TYPE" : "RG",
-				"XCOORDINAA" : 0,
-				"YCOORDINAA" : 0
+				"TYPE" : "RG"
 			}
 		},
 		{
